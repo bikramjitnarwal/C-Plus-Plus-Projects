@@ -1,0 +1,12 @@
+Submitting assignment 3 from remote.ecf.utoronto.ca
+Checking for the expected files in the current directory
+main.cpp shape.cpp
+can't find file 'main.cpp'.
+can't find file 'shape.cpp'.
+
+Error: cannot find all expected files in the current directory.
+Please make sure all necessary files are in the current directory. Also, 
+check that the file names are correct, including capitalization.
+
+No files were submitted
+
