@@ -7,4 +7,4 @@ Lab 3: A Command Line Parsar
 
 Lab 4: LinkedList Asteroid AI Game 
 
-Lab 5: Domain Name Server with Binary Search Trees
+Lab 5: Domain Name Server made with Binary Search Trees
