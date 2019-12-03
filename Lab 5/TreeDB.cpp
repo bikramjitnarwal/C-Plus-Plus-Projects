@@ -185,47 +185,6 @@ TreeNode* TreeDB::removeNode(string name, TreeNode *root){
     TreeNode *currNode = root;
     TreeNode *temp;
     
-    /*
-    // To help make code more eligible 
-    bool currentIsNull, noLeftChild, noRightChild, hasRightChild, hasLeftChild;
-    
-    
-    string entryName = currNode->getEntry()->getName();
-    
-    if(currNode == NULL){
-        currentIsNull = true;
-    } else {
-        currentIsNull = false;
-    }
-    
-    
-    if(currNode->getLeft() == NULL){
-        noLeftChild = true;
-    } else {
-        noLeftChild = false;
-    }
-    
-    if(currNode->getRight() == NULL){
-        noRightChild = true;
-    } else {
-        noRightChild = false;
-    }
-    
-    
-    if(currNode->getLeft() != NULL){
-        hasRightChild = true;
-    } else {
-        hasRightChild = false;
-    }
-    
-    if(currNode->getLeft() != NULL){
-        hasLeftChild = true;
-    } else {
-        hasLeftChild = false;
-    }
-    // 
-   */
-    
     if(currNode == NULL){ 
         return currNode;
         
