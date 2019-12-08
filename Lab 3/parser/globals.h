@@ -1,13 +1,3 @@
-//
-//  globals.h
-//  lab3
-//
-//  Created by Tarek Abdelrahman on 2018-08-25.
-//  Copyright © 2018 Tarek Abdelrahman. All rights reserved.
-//
-
-// ***********  ECE244 Student: DO NOT MODIFY THIS FILE  ***********
-
 #ifndef globals_h
 #define globals_h
 #include<string>
