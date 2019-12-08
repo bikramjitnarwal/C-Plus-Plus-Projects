@@ -20,8 +20,7 @@ double toFahrenheit(double T, char scale);
 double toCelsius(double T, char scale);
 double toKelvin(double T, char scale);
 
-int main(void)
-{
+int main(void){
    double inTemp;
    char scale;
    
