@@ -10,7 +10,6 @@
 #include <iostream>
 using namespace std;
 
-
 #include "displayServer.h"
 
 // The main function simply invokes the appropriate server and returns when the server is done
@@ -19,5 +18,3 @@ int main(int argc, char** argv) {
     displayServer();
     return 0;
 }
-
-
