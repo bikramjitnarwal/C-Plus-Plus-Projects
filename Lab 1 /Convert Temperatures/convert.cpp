@@ -51,8 +51,7 @@ int main(void){
 }
 
 // Converts the temperate 'T' from scale 'scale' to Fahrenheit
-double toFahrenheit( double T, char scale )
-{
+double toFahrenheit( double T, char scale ){
    double outT;
    
    switch( scale ) {
@@ -80,8 +79,7 @@ double toFahrenheit( double T, char scale )
 }
 
 // Converts the temperate 'T' from scale 'scale' to Celsius
-double toCelsius( double T, char scale )
-{
+double toCelsius( double T, char scale ){
    double outT;
    
    switch( scale ) {
