@@ -8,7 +8,7 @@
 #include <iostream>
 using namespace std;
 
-double harmonic(int n) {
+double harmonic(int n){
     double h = 0;
 
     while (n > 0) {
@@ -18,7 +18,7 @@ double harmonic(int n) {
     return (h);
 }
 
-int main() {
+int main(){
     int n;
 
     cout << "Enter an integer: ";
