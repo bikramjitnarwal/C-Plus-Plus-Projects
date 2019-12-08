@@ -107,8 +107,7 @@ double toCelsius( double T, char scale ){
 }
 
 // Converts the temperate 'T' from scale 'scale' to Kelvin
-double toKelvin( double T, char scale )
-{
+double toKelvin( double T, char scale ){
    double outT;
    
    switch( scale ) {
@@ -134,4 +133,3 @@ double toKelvin( double T, char scale )
 
    return outT;
 }
-
