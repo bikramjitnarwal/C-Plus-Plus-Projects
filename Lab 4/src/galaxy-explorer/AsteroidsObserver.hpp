@@ -1,9 +1,3 @@
-/*
- * This file was developed for the Fall 2018 instance of ECE244 at the University of Toronto.
- * Creator: Matthew J. P. Walker
- * Supervised by: Tarek Abdelrahman
- */
-
 #ifndef ECE244_GALAXY_EXPLORER_ASTEROIDS_OBSERVER_HPP
 #define ECE244_GALAXY_EXPLORER_ASTEROIDS_OBSERVER_HPP
 
