@@ -1,13 +1,3 @@
-//
-//  shape.h
-//  lab3
-//
-//  Created by Tarek Abdelrahman on 2018-08-25.
-//  Copyright © 2018 Tarek Abdelrahman. All rights reserved.
-//
-
-// ***********  ECE244 Student: DO NOT MODIFY THIS FILE  ***********
-
 #ifndef shape_h
 #define shape_h
 
